@@ -10,6 +10,14 @@ The project helped me better understand how a mobile app is structured and how c
 
 I created this project as part of my technical preparation for graduate study in Information Systems. Coming from a film and media background, I wanted hands on experience building a functional app while strengthening my programming foundation.
 
+## Project Files
+
+Key Swift files included in this repository:
+
+- QuickTodoApp.swift — main app entry point
+- ContentView.swift — primary user interface and app interaction
+- Item.swift — task/item model used by the app
+
 ## Skills Practiced
 
 - Swift programming fundamentals
